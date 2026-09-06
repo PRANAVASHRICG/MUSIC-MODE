@@ -1,6 +1,0 @@
-streamlit
-tensorflow==2.21.0
-librosa
-soundfile
-numpy
-scikit-learn
